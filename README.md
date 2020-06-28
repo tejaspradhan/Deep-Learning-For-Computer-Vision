@@ -4,6 +4,6 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
 
 ## Datasets :
 - MNIST (Modified National Institute of Standards and Technology) Dataset for Handwritten Digit Recognition
-- Fashion MNIST Dataset for classifying clothing images
-
+- Fashion MNIST Dataset for classifying clothing image
+- Horse or Human Dataset by Laurence Moroney
 
