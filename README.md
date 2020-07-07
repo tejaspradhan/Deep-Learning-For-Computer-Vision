@@ -16,4 +16,4 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
   - https://www.kaggle.com/c/dogs-vs-cats/data
 
 - CIFAR-10 object recognition Dataset
-  -https://www.cs.toronto.edu/~kriz/cifar.html
+  - https://www.cs.toronto.edu/~kriz/cifar.html
