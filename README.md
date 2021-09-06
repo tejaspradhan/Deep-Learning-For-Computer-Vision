@@ -2,6 +2,9 @@
 A series of small projects where deep neural network based approaches have been applied to computer vision problems like Image Classification.
 The models have been built using Tensorflow and Keras. The primary focus is on building naive deep neural networks as well as Convolutional Neural Networks for Image Classification tasks  
 
+## Projects
+
+
 ## Datasets :
 - MNIST (Modified National Institute of Standards and Technology) Dataset for Handwritten Digit Recognition 
   - https://www.kaggle.com/c/digit-recognizer/data
@@ -17,3 +20,8 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
 
 - CIFAR-10 object recognition Dataset
   - https://www.cs.toronto.edu/~kriz/cifar.html
+
+## Contributors
+<a href="https://github.com/tejaspradhan/Deep-Learning-For-Computer-Vision/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tejaspradhan/Deep-Learning-For-Computer-Vision" />
+</a>
