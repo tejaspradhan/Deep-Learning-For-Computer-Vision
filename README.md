@@ -29,6 +29,14 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
   - https://www.cs.toronto.edu/~kriz/cifar.html
 <br>
 
+## How to contribute
+1. Create a directory for your project with the project name.
+2. Add all your project files in that directory **only**.
+3. Add a dedicated README file in the project directory describing your project in detail. (View other project directories for reference if necessary)
+4. Append the name of your project to the project list in the common README.
+5. Mention the dataset(s) used for the project in the dataset list above.
+<br>
+
 ## Contributors
 <a href="https://github.com/tejaspradhan/Deep-Learning-For-Computer-Vision/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tejaspradhan/Deep-Learning-For-Computer-Vision" />
