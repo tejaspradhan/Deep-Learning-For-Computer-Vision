@@ -3,7 +3,12 @@ A series of small projects where deep neural network based approaches have been 
 The models have been built using Tensorflow and Keras. The primary focus is on building naive deep neural networks as well as Convolutional Neural Networks for Image Classification tasks  
 
 ## Projects
-
+1. CIFAR-10 Image Classification
+2. Covid-19 Mask Recognition
+3. Cat and Dog Image Classification
+4. Fashion MNIST Image Classification
+5. Horse and Human Image Classification
+6. MNIST Image Classification
 
 ## Datasets :
 - MNIST (Modified National Institute of Standards and Technology) Dataset for Handwritten Digit Recognition 
