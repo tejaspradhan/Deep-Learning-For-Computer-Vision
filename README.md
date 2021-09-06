@@ -10,7 +10,6 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
 4. Fashion MNIST Image Classification
 5. Horse and Human Image Classification
 6. MNIST Image Classification
-
 <br>
 
 ## Datasets :
@@ -28,7 +27,6 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
 
 - CIFAR-10 object recognition Dataset
   - https://www.cs.toronto.edu/~kriz/cifar.html
-
 <br>
 
 ## Contributors
