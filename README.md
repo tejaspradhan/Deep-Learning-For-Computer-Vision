@@ -10,7 +10,9 @@ The models have been built using Tensorflow and Keras. The primary focus is on b
 4. Fashion MNIST Image Classification
 5. Horse and Human Image Classification
 6. MNIST Image Classification
+
 <br>
+
 ## Datasets :
 - MNIST (Modified National Institute of Standards and Technology) Dataset for Handwritten Digit Recognition 
   - https://www.kaggle.com/c/digit-recognizer/data
